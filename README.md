@@ -548,7 +548,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Arrays
     - Implement an automatically resizing vector.
-    - [ ] Description:
+    - [X] Description:
         - [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
         - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
@@ -720,7 +720,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
             - preorder (DFS: self, left, right)
 
 - ### Binary search trees: BSTs
-    - [ ] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)    
+    - [ ] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
     - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
     - [ ] [MIT (video)](https://www.youtube.com/watch?v=9Jry5-82I68)
     - C/C++:
@@ -1365,13 +1365,13 @@ Mock Interviews:
     - [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
 
 ## Best way to find perfect career opportunities for you
-- If you are trying to find new job opportunities, or if you are trying to find internships, if want to know about the salary of a job role in any companies or want to just know about the company reputation before applying to that company, here are the list of platforms which can help you find the above answers and more. 
+- If you are trying to find new job opportunities, or if you are trying to find internships, if want to know about the salary of a job role in any companies or want to just know about the company reputation before applying to that company, here are the list of platforms which can help you find the above answers and more.
 - [Best Websites for Careers & Jobs](https://ayedot.com/151/MiniBlog/Top-10-Best-Websites-for-Careers--Jobs)
 
 ## Your Resume
 
 - See Resume prep items in Cracking The Coding Interview and back of Programming Interviews Exposed
-- Very Important thing to remember while creating your resume, if you applying for big companies is that make it ATS Compliant. 
+- Very Important thing to remember while creating your resume, if you applying for big companies is that make it ATS Compliant.
 - [How to Create or Check if your Resume is ATS Compliant](https://ayedot.com/97/MiniBlog/Meaning-of-ATS-compliant-resume-and-How-to-create-ATS-Resume-for-Free)
 
 ## Be thinking of for when the interview comes
@@ -1393,7 +1393,7 @@ Have a story, not just data, about something you accomplished.
 - What would you have done better at [job x / project y]?
 
 
-- If you find hard to come up with good answers of this type interview questions, you can refer below link for some answer templates and have some idea. 
+- If you find hard to come up with good answers of this type interview questions, you can refer below link for some answer templates and have some idea.
 - [General Interview Questions and their Answers](https://ayedot.com/119/MiniBlog/General-Interview-Questions-and-their-Answers-for-Tech-Jobs)
 
 
@@ -1834,7 +1834,7 @@ You're never really done.
     above because it's just too much. It's easy to overdo it on a subject.
     You want to get hired in this century, right?
 
-- **SOLID**   
+- **SOLID**
     - [ ] [Bob Martin SOLID Principles of Object Oriented and Agile Design (video)](https://www.youtube.com/watch?v=TMuno5RZNeE)
     - [ ] S - [Single Responsibility Principle](http://www.oodesign.com/single-responsibility-principle.html) | [Single responsibility to each Object](http://www.javacodegeeks.com/2011/11/solid-single-responsibility-principle.html)
         - [more flavor](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
